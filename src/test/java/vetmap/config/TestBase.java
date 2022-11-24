@@ -1,4 +1,4 @@
-package vetmap.webTest.config;
+package vetmap.config;
 
 import com.codeborne.selenide.Configuration;
 import org.aeonbits.owner.ConfigFactory;

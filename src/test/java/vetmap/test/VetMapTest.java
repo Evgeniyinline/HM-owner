@@ -1,9 +1,9 @@
-package vetmap.webTest;
+package vetmap.test;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import vetmap.webTest.config.TestBase;
+import vetmap.config.TestBase;
 
 import static com.codeborne.selenide.Selectors.byTagAndText;
 import static com.codeborne.selenide.Selenide.$;

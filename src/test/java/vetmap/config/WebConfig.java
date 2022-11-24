@@ -1,4 +1,4 @@
-package vetmap.webTest.config;
+package vetmap.config;
 
 import org.aeonbits.owner.Config;
 
